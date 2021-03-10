@@ -1,0 +1,21 @@
+.todo-container {
+  border: solid black 2px;
+  width: 40%;
+  min-height: 50vh;
+}
+.user {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+  padding: 0px 16px;
+}
+
+.addingBlock {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.listitem {
+  padding: 4px;
+}

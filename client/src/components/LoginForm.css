@@ -1,0 +1,17 @@
+.login-container {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 50%;
+}
+.username,
+.password,
+.signup,
+.login {
+  margin: 8px;
+}
+.signup,
+.login {
+  min-width: 100px;
+}
